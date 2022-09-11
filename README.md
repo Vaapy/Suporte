@@ -5,6 +5,8 @@ Suporte do Motok App
 
 Documentação          - https://drive.google.com/file/d/1MWTjDs_KbiuDT8RBO7Nx7xZtZ_UTXQJa/view?usp=sharing
 
+Instagram 	          - https://instagram.com/motokapp
+
 YouTube               - https://www.youtube.com/watch?v=rUA6sYeZUmw&list=PL3CNm1uwGm_C4MLV5YOmrzfxMe6c7IvTr
 
 YouTube Ifood         - https://www.youtube.com/watch?v=C48-2cV1HXw&list=PL3CNm1uwGm_BOChCeLFVmnfbP-xA84NJT
