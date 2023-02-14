@@ -19,7 +19,9 @@ From finding a great place to eat, to buying products online and having them shi
 
 # Links 
 
-Docs          - https://drive.google.com/file/d/1MWTjDs_KbiuDT8RBO7Nx7xZtZ_UTXQJa/view?usp=sharing
+Docs                  - https://drive.google.com/file/d/1MWTjDs_KbiuDT8RBO7Nx7xZtZ_UTXQJa/view?usp=sharing
+
+Vendas                - https://drive.google.com/drive/folders/1udxyEJvIJoJXINvksQzhEhXFgLk_iawo?usp=share_link
 
 Instagram 	          - https://instagram.com/motokapp
 
