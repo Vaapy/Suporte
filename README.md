@@ -19,5 +19,4 @@ MotokApp is a delivery app that connects people who need deliveries with the bes
 
 # Links 
 
-Documentação                  - https://drive.google.com/file/d/1meJT6yMPslqkp0mTY7JBrWGW3s6n6_O5/view?usp=share_link
-Aplicativos Android           - https://drive.google.com/drive/folders/1glRZkQ7RBRlisJ5d7B23e52AghT0ekYs?usp=share_link
+Documentação                  - [https://drive.google.com/file/d/1meJT6yMPslqkp0mTY7JBrWGW3s6n6_O5/view?usp=share_link](https://drive.google.com/file/d/1uzYwZf44W_6r6yTHlnjpCYV6jHSIzQEd/view?usp=drive_link)
