@@ -1,20 +1,20 @@
-# Suporte Online do Vaapy
+# Suporte Online do MotokApp
 
 ## Português
 
-Vaapy é um aplicativo de entrega. Qualquer um pode usá-lo para obter o trabalho dos melhores profissionais em sua área. Não há empresa no meio, então você tem acesso direto a todos os empregos disponíveis
+MotokApp é um aplicativo de entrega. Qualquer um pode usá-lo para obter o trabalho dos melhores profissionais em sua área. Não há empresa no meio, então você tem acesso direto a todos os empregos disponíveis
 
-A Vaapy é uma plataforma onde você encontra os melhores profissionais para o seu trabalho. Os profissionais não precisam fazer parte de nenhuma empresa e podem prestar serviços diretamente a você.
+A MotokApp é uma plataforma onde você encontra os melhores profissionais para o seu trabalho. Os profissionais não precisam fazer parte de nenhuma empresa e podem prestar serviços diretamente a você.
 
-Vaapy é um aplicativo de delivery que conecta pessoas que precisam de entregas com os melhores profissionais da sua região. Nenhuma empresa no meio.
+MotokApp é um aplicativo de delivery que conecta pessoas que precisam de entregas com os melhores profissionais da sua região. Nenhuma empresa no meio.
 
 ## English
 
-Vaapy is a delivery app. Anyone can use it to get work from the best professionals in their area. There's no company in the middle, so you have direct access to all jobs available
+MotokApp is a delivery app. Anyone can use it to get work from the best professionals in their area. There's no company in the middle, so you have direct access to all jobs available
 
-Vaapy is a platform where you can find the best professionals for your job. The professionals do not have to be part of any company and can provide services directly to you.
+MotokApp is a platform where you can find the best professionals for your job. The professionals do not have to be part of any company and can provide services directly to you.
 
-Vaapy is a delivery app that connects people who need deliveries with the best professionals in their area. No company in between.
+MotokApp is a delivery app that connects people who need deliveries with the best professionals in their area. No company in between.
 
 
 # Links 
