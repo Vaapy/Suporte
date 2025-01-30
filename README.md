@@ -1,6 +1,4 @@
-Aqui está o texto atualizado com os links clicáveis sem exibir o URL completo:
 
----
 
 ### **# Suporte Online do MotokApp**  
 
@@ -32,4 +30,3 @@ Whether for personal shipments or automated business deliveries, **MotokApp is t
 
 ---
 
-Agora os links estão limpos e organizados! 🚀
