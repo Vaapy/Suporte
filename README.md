@@ -1,22 +1,35 @@
-# Suporte Online do MotokApp
+Aqui está o texto atualizado com os links clicáveis sem exibir o URL completo:
 
-## Português
+---
 
-MotokApp é um aplicativo de entrega. Qualquer um pode usá-lo para obter o trabalho dos melhores profissionais em sua área. Não há empresa no meio, então você tem acesso direto a todos os empregos disponíveis
+### **# Suporte Online do MotokApp**  
 
-A MotokApp é uma plataforma onde você encontra os melhores profissionais para o seu trabalho. Os profissionais não precisam fazer parte de nenhuma empresa e podem prestar serviços diretamente a você.
+## **🇧🇷 Português**  
 
-MotokApp é um aplicativo de delivery que conecta pessoas que precisam de entregas com os melhores profissionais da sua região. Nenhuma empresa no meio.
+O **MotokApp** é um **aplicativo de entregas** que conecta clientes a **entregadores profissionais**, sem intermediários. Com ele, qualquer pessoa pode solicitar serviços de entrega de forma rápida e segura, acessando diretamente os melhores profissionais da sua região.  
 
-## English
+No **MotokApp**, os entregadores têm **total autonomia**, sem precisar estar vinculados a empresas, e os clientes contam com **preços justos, rastreamento em tempo real e pagamento instantâneo**.  
 
-MotokApp is a delivery app. Anyone can use it to get work from the best professionals in their area. There's no company in the middle, so you have direct access to all jobs available
+Seja para envios pessoais ou para automação de entregas comerciais, o **MotokApp é a solução ideal para entregas ágeis e confiáveis**.  
 
-MotokApp is a platform where you can find the best professionals for your job. The professionals do not have to be part of any company and can provide services directly to you.
+---
 
-MotokApp is a delivery app that connects people who need deliveries with the best professionals in their area. No company in between.
+## **🇺🇸 English**  
 
+**MotokApp** is a **delivery app** that connects customers to **professional couriers** with no middleman. Anyone can request a delivery service quickly and securely, directly accessing the best professionals in their area.  
 
-# Links 
+With **MotokApp**, couriers have **full autonomy**, without being tied to companies, while customers benefit from **fair pricing, real-time tracking, and instant payments**.  
 
-Documentação                  - [https://drive.google.com/file/d/1meJT6yMPslqkp0mTY7JBrWGW3s6n6_O5/view?usp=share_link](https://drive.google.com/file/d/1uzYwZf44W_6r6yTHlnjpCYV6jHSIzQEd/view?usp=drive_link)
+Whether for personal shipments or automated business deliveries, **MotokApp is the ultimate solution for fast and reliable deliveries**. 🚀  
+
+---
+
+## **🔗 Links**  
+
+📄 **[Documentação / Docs](https://drive.google.com/file/d/1uzYwZf44W_6r6yTHlnjpCYV6jHSIzQEd/view?usp=drive_link)**  
+
+📂 **[Pasta Compartilhada](https://drive.google.com/drive/folders/17KbAg62j9fbS0gGz7YU4Z9jzePhxzan9?usp=sharing)**  
+
+---
+
+Agora os links estão limpos e organizados! 🚀
